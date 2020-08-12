@@ -64,7 +64,101 @@ Schwarzschild-de Sitter Black Holes</a></li>
 <p>Weinberg's articles on various subjects occasionally appear in&nbsp;<em><a title="The New York Review of Books" href="https://en.wikipedia.org/wiki/The_New_York_Review_of_Books">The New York Review of Books</a></em>&nbsp;and other periodicals. He has served as consultant at the&nbsp;<a class="mw-redirect" title="U. S. Arms Control and Disarmament Agency" href="https://en.wikipedia.org/wiki/U._S._Arms_Control_and_Disarmament_Agency">U. S. Arms Control and Disarmament Agency</a>, President of the Philosophical Society of Texas, and member of the Board of Editors of&nbsp;<em>Daedalus</em>&nbsp;magazine, the Council of Scholars of the&nbsp;<a title="Library of Congress" href="https://en.wikipedia.org/wiki/Library_of_Congress">Library of Congress</a>, the&nbsp;<a title="JASON (advisory group)" href="https://en.wikipedia.org/wiki/JASON_(advisory_group)">JASON</a>&nbsp;group of defense consultants, and many other boards and committees.</p>
 </br>
 
+<h2> Publications </h2>
 
+<ul>
+                          
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(1).pdf" style="text-decoration:none;">Effective Field Theory for Inflation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(2).pdf" style="text-decoration:none;">A Tree Theorem for Inflation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(3).pdf" style="text-decoration:none;">Non-Gaussian Correlations Outside the Horizon</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(4).pdf" style="text-decoration:none;">Non-Gaussian Correlations Outside the Horizon II: The General Case</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(5).pdf" style="text-decoration:none;">Living With Infinities</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(6).pdf" style="text-decoration:none;">Effective Field Theory, Past and Future</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(7).pdf" style="text-decoration:none;">Asymptotically Safe Inflation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(8).pdf" style="text-decoration:none;"> Six-dimensional Methods for Four-dimensional Conformal Field Theories</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(9).pdf" style="text-decoration:none;">Pions in Large-N Quantum Chromodynamics</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(10).pdf" style="text-decoration:none;">Ultraviolet Divergences in Cosmological Correlations</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(11).pdf" style="text-decoration:none;">Collapse of the State Vector</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(12).pdf" style="text-decoration:none;">Six-dimensional Methods for Four-dimensional Conformal Field Theories II: Irreducible Fields</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(13).pdf" style="text-decoration:none;">Minimal Fields of Canonical Dimensionality are Free</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(14).pdf" style="text-decoration:none;">Tetraquark Mesons in Large-N Quantum Chromodynamics</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(15).pdf" style="text-decoration:none;">Goldstone Bosons as Fractional Cosmic Neutrinos</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(16).pdf" style="text-decoration:none;">Quantum Mechanics Without State Vectors</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(17).pdf" style="text-decoration:none;">Necessary and Sufficient Condition on the Lindblad Equation to Prevent Entropy Decrease</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(18).pdf" style="text-decoration:none;">What Happens in a Measurement?</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(19).pdf" style="text-decoration:none;">Lindblad Decoherence in Atomic Clocks</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(20).pdf" style="text-decoration:none;">Gravitational Waves in Cold Dark Matter</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(21).pdf" style="text-decoration:none;">Soft Bremsstrahlung</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(22).pdf" style="text-decoration:none;">Absorption of Gravitational Waves from Distant Sources</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(23).pdf" style="text-decoration:none;">Models of Lepton and Quark Masses</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(24).pdf" style="text-decoration:none;">Joseph Polchinski: A Biographical Memoir</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(25).pdf" style="text-decoration:none;">A Priori Probability Distribution of the Cosmological Constant</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(26).pdf" style="text-decoration:none;">The Cosmological Constant Problems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(27).pdf" style="text-decoration:none;">Curvature Dependence of Peaks in the Cosmic Microwave Background Distribution</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(28).pdf" style="text-decoration:none;">Fluctuations in the Cosmic Microwave Background I: Form Factors and their Calculation in Synchronous Gauge</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(29).pdf" style="text-decoration:none;">Fluctuations in the Cosmic Microwave Background II: C<sub>ℓ</sub> at Large and Small ℓ</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(30).pdf" style="text-decoration:none;">Conference Summary
+20th Texas Symposium on Relativistic Astrophysics</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(31).pdf" style="text-decoration:none;">Cosmological Fluctuations Of Small Wavelength</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(32).pdf" style="text-decoration:none;">Adiabatic Modes in Cosmology</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(33).pdf" style="text-decoration:none;">Damping of Tensor Modes in Cosmology</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(34).pdf" style="text-decoration:none;">The Making of the Standard Model</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(35).pdf" style="text-decoration:none;">Can Non-Adiabatic Perturbations Arise After Single-Field Inflation?</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(36).pdf" style="text-decoration:none;">Must Cosmological Perturbations Remain Non-Adiabatic After Multi-Field Inflation?</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(37).pdf" style="text-decoration:none;">Quantum Contributions to Cosmological Correlations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(38).pdf" style="text-decoration:none;">Living in the Multiverse</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(39).pdf" style="text-decoration:none;">Quantum Contributions to Cosmological Correlations II: Can These Corrections Become Large?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(40).pdf" style="text-decoration:none;">A No-Truncation Approach to Cosmic Microwave Background Anisotropies</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(41).pdf" style="text-decoration:none;">Tensor Microwave Background Fluctuations for Large Multipole Order</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(42).pdf" style="text-decoration:none;">Three-Body Interactions Among Nucleons and Pions</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(43).pdf" style="text-decoration:none;">Conference Summary</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(44).pdf" style="text-decoration:none;">Flavor Changing Scalar Interactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(45).pdf" style="text-decoration:none;">Effective Action and Renormalization Group Flow of Anisotropic Superconductors</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(46).pdf" style="text-decoration:none;">General Effective Actions</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(47).pdf" style="text-decoration:none;">Strong Interactions at Low Energies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(48).pdf" style="text-decoration:none;">Are Nonrenormalizable Gauge Theories Renormalizable?</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(49).pdf" style="text-decoration:none;">Theories of the Cosmological Constant</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(50).pdf" style="text-decoration:none;">Likely Values of the Cosmological Constant</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(51).pdf" style="text-decoration:none;">What is Quantum Field Theory, and What Did We Think It Is?</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(52).pdf" style="text-decoration:none;">Effective Field Theories in the Large N Limit</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/stvn(53).pdf" style="text-decoration:none;">Non-Renormalization Theorems in Non-Renormalizable Theories</a></li>
+
+
+</ul>
 
 
 
