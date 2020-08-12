@@ -17,23 +17,42 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(1).pdf" style="text-decoration:none;">The Census Taker's Hat</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(1).pdf" style="text-decoration:none;">Should China build the Great Collider?</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(2).pdf" style="text-decoration:none;">Future Foam</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(2).pdf" style="text-decoration:none;">The Conformal BMS Group</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(3).pdf" style="text-decoration:none;">Fast Scramblers</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(4).pdf" style="text-decoration:none;">Census Taking in the Hat:
-FRW/CFT Duality</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(5).pdf" style="text-decoration:none;">On the Topological Phases of Eternal Inflation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(6).pdf" style="text-decoration:none;">Crunches, Hats, and a Conjecture</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(7).pdf" style="text-decoration:none;">Addendum to Fast Scramblers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(3).pdf" style="text-decoration:none;">Superrotation charge and supertranslation hair on black holes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(4).pdf" style="text-decoration:none;">Soft Hair on Black Holes</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(5).pdf" style="text-decoration:none;">The Information Paradox for Black Holes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(6).pdf" style="text-decoration:none;">Information Preservation and Weather Forecasting for Black Holes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(7).pdf" style="text-decoration:none;">Volume Weighting in the No Boundary Proposal</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(8).pdf" style="text-decoration:none;"> The Multiverse Interpretation of Quantum Mechanics</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(9).pdf" style="text-decoration:none;">Eternal Symmetree</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(8).pdf" style="text-decoration:none;"> Information Loss in Black Holes</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(9).pdf" style="text-decoration:none;">Cosmology from the Top Down</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(10).pdf" style="text-decoration:none;">The Three Faces of a Fixed Point </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(11).pdf" style="text-decoration:none;">Fractal-Flows and Time's Arrow</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(10).pdf" style="text-decoration:none;">DeSitter Entropy,
+Quantum Entanglement and AdS/CFT</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(11).pdf" style="text-decoration:none;">Lorentzian Condition in Quantum Gravity</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(12).pdf" style="text-decoration:none;"> (Anti-)Evaporation of
+Schwarzschild-de Sitter Black Holes</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(13).pdf" style="text-decoration:none;">Trace anomaly of dilaton coupled scalars in two dimensions</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(14).pdf" style="text-decoration:none;">Primordial Black Holes: Tunnelling vs. No Boundary Proposal</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(15).pdf" style="text-decoration:none;">Pair Creation and Evolution of Black Holes in Inflation</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(16).pdf" style="text-decoration:none;">Pair Creation of Black Holes During Inflation</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(17).pdf" style="text-decoration:none;">Virtual Black Holes</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/swhk(18).pdf" style="text-decoration:none;">Classical Theory</a></li>
+
+
+
+
+
 </ul>
 
 
