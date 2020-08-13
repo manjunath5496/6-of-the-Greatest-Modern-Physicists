@@ -695,7 +695,7 @@ and Connections to Particle Physics</a></li>
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/phw(1).pdf" style="text-decoration:none;">Broken symmetries, massless particlees and gauge fields</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/phw(1).pdf" style="text-decoration:none;">Broken symmetries, massless particles and gauge fields</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/phw(2).pdf" style="text-decoration:none;">Theoretical determination of electron density in organic molecules</a></li>
 
