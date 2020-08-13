@@ -611,3 +611,74 @@ Among Topological Effects In String Theory</a></li>
 <p>He graduated from MIT in 1968 in physics and stayed to receive a master's and a doctorate, also in physics.</p>
 <p>As a junior particle physicist, Guth developed the idea of&nbsp;<a class="mw-redirect" title="Cosmic inflation" href="https://en.wikipedia.org/wiki/Cosmic_inflation">cosmic inflation</a>&nbsp;in 1979 at&nbsp;<a title="Cornell University" href="https://en.wikipedia.org/wiki/Cornell_University">Cornell</a>&nbsp;and gave his first seminar on the subject in January 1980.&nbsp;Moving on to&nbsp;<a title="Stanford University" href="https://en.wikipedia.org/wiki/Stanford_University">Stanford University</a>&nbsp;Guth formally proposed the idea of cosmic inflation in 1981, the idea that the nascent universe passed through a phase of exponential expansion that was driven by a positive&nbsp;<a title="Vacuum energy" href="https://en.wikipedia.org/wiki/Vacuum_energy">vacuum energy</a>&nbsp;density (negative vacuum pressure). The results of the&nbsp;<a class="mw-redirect" title="WMAP" href="https://en.wikipedia.org/wiki/WMAP">WMAP</a>&nbsp;mission in 2006 made the case for cosmic inflation very compelling.</p>
 </br>
+<h2> Publications </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(1).pdf" style="text-decoration:none;">Predicting the cosmological constant with the scale-factor cutoff measure</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(2).pdf" style="text-decoration:none;">Boltzmann brains and the scale-factor cutoff measure of the multiverse</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(3).pdf" style="text-decoration:none;">Eternal Inflation, Global Time Cutoff Measures, and a Probability Paradox</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(4).pdf" style="text-decoration:none;">What can the observation of nonzero curvature tell us?</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(5).pdf" style="text-decoration:none;">Density Perturbations in Hybrid Inflation Using a Free Field Theory Time-Delay Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(6).pdf" style="text-decoration:none;">Quantum Fluctuations in Cosmology and How They Lead to a Multiverse</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(7).pdf" style="text-decoration:none;">Inflationary Paradigm after Planck 2013</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(8).pdf" style="text-decoration:none;"> Do Dark Matter Axions Form a Condensate with Long-Range Correlation? </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(9).pdf" style="text-decoration:none;">Photo-reverberation Mapping of a Protoplanetary Accretion Disk around a T Tauri Star</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(10).pdf" style="text-decoration:none;">Cosmic Bell Test: Measurement Settings from Milky Way Stars</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(11).pdf" style="text-decoration:none;">Number Density of Peaks in a Chi-Squared Field</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(12).pdf" style="text-decoration:none;">Counting Vacua in Random Landscapes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(13).pdf" style="text-decoration:none;">Relativistic Corrections to Nonrelativistic Effective Field Theories</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(14).pdf" style="text-decoration:none;">Mass of a Patch of an FRW Universe</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(15).pdf" style="text-decoration:none;">The QCD Axion Window and Low-Scale Inflation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(16).pdf" style="text-decoration:none;">Cosmic Bell Test using Random Measurement Settings from High-Redshift Quasars</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(17).pdf" style="text-decoration:none;">Relaxed Bell Inequalities with Arbitrary Measurement Dependence for Each Observer</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(18).pdf" style="text-decoration:none;">Statistics of Peaks in Chi-Squared Fields</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(19).pdf" style="text-decoration:none;">Inflation and Eternal Inflation</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(20).pdf" style="text-decoration:none;">Inflationary Models
+and Connections to Particle Physics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(21).pdf" style="text-decoration:none;">Eternal Inflation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(22).pdf" style="text-decoration:none;">Inflationary spacetimes are not past-complete</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(23).pdf" style="text-decoration:none;">Time Since the Beginning</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(24).pdf" style="text-decoration:none;">Inflation and cosmological perturbations</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(25).pdf" style="text-decoration:none;">Time before Time: Classifications of universes in contemporary cosmology, and how to avoid the antinomy of the beginning and eternity of the world</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(26).pdf" style="text-decoration:none;">Rotating Brane Worlds and the Global Rotation of the Universe</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(27).pdf" style="text-decoration:none;">Inflationary Cosmology: Exploring the Universe from the Smallest to the Largest Scales</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(28).pdf" style="text-decoration:none;">Constraining Torsion with Gravity Probe B</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(29).pdf" style="text-decoration:none;">Eternal inflation, bubble collisions, and the persistence of memory</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(30).pdf" style="text-decoration:none;">Eternal inflation and its implications</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(31).pdf" style="text-decoration:none;">Gott time machines cannot exist in an open (2+1)-dimensional universe with timelike total momentum</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(32).pdf" style="text-decoration:none;">Energy-Momentum Restrictions on the Creation of Gott Time Machines</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(33).pdf" style="text-decoration:none;">Supernatural Inflation: Inflation from Supersymmetry with No (Very) Small Parameters</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(34).pdf" style="text-decoration:none;">Supernatural Inflation</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(35).pdf" style="text-decoration:none;">Inflation: From Theory To Observation and Back</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/6-of-the-Greatest-Modern-Physicists/blob/master/alak(36).pdf" style="text-decoration:none;">Day-Night and Energy Dependence of MSW Solar Neutrinos for Maximal Mixing</a></li> 
+ </ul>
+ </br>
